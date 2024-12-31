@@ -1,4 +1,4 @@
-# Syntantical Analyzer
+# Syntax Analyzer
 
 ## Instructions
 
