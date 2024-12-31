@@ -1,4 +1,4 @@
-# Lexical Analyzer
+# Syntantical Analyzer
 
 ## Instructions
 
